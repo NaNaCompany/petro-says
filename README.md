@@ -56,3 +56,8 @@ Existing public page paths and canonical identities are preserved. Each sitemap 
 
 - https://nanalab.kr/petro-says/sitemap-main.xml
 - https://nanalab.kr/petro-says/sitemap-posts-01.xml
+
+
+## Homepage social preview
+
+The canonical homepage uses the existing attributed portrait at https://nanalab.kr/petro-says/assets/portrait.jpg for Open Graph and a Twitter/X large-image summary. The JPEG dimensions are 863 × 1117 pixels. The build verifies the photo hash against its unchanged credit record and emits the image tags only on the homepage. Other pages retain their existing metadata. No image edits, crops or generated face assets are introduced.
