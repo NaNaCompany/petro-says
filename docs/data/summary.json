@@ -1,0 +1,241 @@
+{
+  "slug": "petro-says",
+  "captured_at": "2026-10-28T23:51:54.990547+00:00",
+  "coverage": "partial",
+  "records": 285,
+  "first": "2026-10-03",
+  "last": "2026-10-28",
+  "exact_time": 285,
+  "sources": [
+    {
+      "id": "nitter-public-timeline",
+      "url": "https://nitter.jaydenha.uk/petrogustavo/with_replies",
+      "creator": "Nitter public timeline (original X account linked for every record)",
+      "redistributed_fields": [
+        "post_id",
+        "author",
+        "ID-derived timestamp",
+        "original_permalink",
+        "post_kind"
+      ],
+      "body_rights": "Not established; all scraped bodies, media, translations and third-party summaries excluded"
+    }
+  ],
+  "collection_limit_pages": 20,
+  "pages": [
+    {
+      "url": "https://nitter.jaydenha.uk/petrogustavo/with_replies",
+      "sha256": "bbb6faa352d1225e6ec3df081e4df073fbe65df412c69793f5fd2311e958c089",
+      "timeline_items": 23,
+      "accepted": 18,
+      "excluded": {
+        "repost": 4,
+        "missing-author-or-permalink": 1
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/petrogustavo/with_replies?cursor=DAAHCgABHVwYLtg__-oLAAIAAAATMjExNDgxMzY3MjA1MjY4NzA2MQgAAwAAAAIAAA",
+      "sha256": "42bd3c0cdcac8dbb55994b7a32f2ea9d385574d9761f43d8ba9c5adc1a7e24e6",
+      "timeline_items": 18,
+      "accepted": 13,
+      "excluded": {
+        "missing-author-or-permalink": 2,
+        "repost": 3
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/petrogustavo/with_replies?cursor=DAAHCgABHVwYLtg__9sLAAIAAAATMjExNDUwNDQwMzgyNjY4Mzk3MAgAAwAAAAIAAA",
+      "sha256": "2cb69295eb03202b27774f5d320f42cd3c4dd22c2d06ed4d2a25778e51852757",
+      "timeline_items": 20,
+      "accepted": 16,
+      "excluded": {
+        "missing-author-or-permalink": 1,
+        "repost": 3
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/petrogustavo/with_replies?cursor=DAAHCgABHVwYLtg__8cLAAIAAAATMjExMzczMTkyOTYzNTc0NTkwNAgAAwAAAAIAAA",
+      "sha256": "5c5a4cd73db5235aabd51eb95c9b23db2cca736720ca7c082373877a3427cdaa",
+      "timeline_items": 18,
+      "accepted": 13,
+      "excluded": {
+        "missing-author-or-permalink": 1,
+        "repost": 4
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/petrogustavo/with_replies?cursor=DAAHCgABHVwYLtg__7ULAAIAAAATMjExMzI1NzU0Nzk5ODE0MjU5NwgAAwAAAAIAAA",
+      "sha256": "3cfebe2a71b19893698af95fc1d10f2217edfa4b8089e44dfa89d4c02fa1764a",
+      "timeline_items": 20,
+      "accepted": 13,
+      "excluded": {
+        "missing-author-or-permalink": 1,
+        "repost": 6
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/petrogustavo/with_replies?cursor=DAAHCgABHVwYLtg__6ELAAIAAAATMjExMjg3NDgwNjUyMTYxNDYwNQgAAwAAAAIAAA",
+      "sha256": "45081d39e1de4ded6946784726851ce000cf4526baf42a5afcaccc6cd2a88172",
+      "timeline_items": 20,
+      "accepted": 16,
+      "excluded": {
+        "missing-author-or-permalink": 1,
+        "repost": 3
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/petrogustavo/with_replies?cursor=DAAHCgABHVwYLtg__40LAAIAAAATMjExMjIwODIzNjg3NDk5NDA1MAgAAwAAAAIAAA",
+      "sha256": "a797f73d9e1b6ecbd7237b5b86cf1740c9740fb6933093ea85bf2bb68b8b91c8",
+      "timeline_items": 21,
+      "accepted": 17,
+      "excluded": {
+        "missing-author-or-permalink": 1,
+        "repost": 3
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/petrogustavo/with_replies?cursor=DAAHCgABHVwYLtg__3gLAAIAAAATMjExMTUwNTY0NzU5NDMyODM5MwgAAwAAAAIAAA",
+      "sha256": "f19603b649e48b14a5b0f00cad85892b9d6a1ed436edc92aaa1618c49c3abaa6",
+      "timeline_items": 21,
+      "accepted": 13,
+      "excluded": {
+        "missing-author-or-permalink": 1,
+        "repost": 7
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/petrogustavo/with_replies?cursor=DAAHCgABHVwYLtg__2MLAAIAAAATMjExMDUwMzEzNDIyMTAyMTM5NwgAAwAAAAIAAA",
+      "sha256": "2226f3d93a2c2a6e9551abcb3facbef770561a166ebfcdfab8b875dad16c1536",
+      "timeline_items": 20,
+      "accepted": 18,
+      "excluded": {
+        "missing-author-or-permalink": 1,
+        "repost": 1
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/petrogustavo/with_replies?cursor=DAAHCgABHVwYLtg__08LAAIAAAATMjExMDQxNzk2OTU5OTYyNzc1OQgAAwAAAAIAAA",
+      "sha256": "f40ce322323265648437adab487f533b920fcd13936d89589ad7c025139dda68",
+      "timeline_items": 21,
+      "accepted": 14,
+      "excluded": {
+        "missing-author-or-permalink": 1,
+        "repost": 6
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/petrogustavo/with_replies?cursor=DAAHCgABHVwYLtg__zoLAAIAAAATMjExMDMyMjYwNzQzNDIxNTQ5MggAAwAAAAIAAA",
+      "sha256": "19e79120edc813da87f251750ecafbf6beb28fd4938ce3887ff531f3d3bc5abf",
+      "timeline_items": 20,
+      "accepted": 16,
+      "excluded": {
+        "missing-author-or-permalink": 1,
+        "repost": 3
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/petrogustavo/with_replies?cursor=DAAHCgABHVwYLtg__yULAAIAAAATMjEwOTk5NzUyNTc5Mjg5OTIwNggAAwAAAAIAAA",
+      "sha256": "934574370c66050b2af651ac735bcf81ef6d7743e81edfc6228fe2cd8393a7ca",
+      "timeline_items": 18,
+      "accepted": 13,
+      "excluded": {
+        "missing-author-or-permalink": 1,
+        "repost": 4
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/petrogustavo/with_replies?cursor=DAAHCgABHVwYLtg__xELAAIAAAATMjEwOTcxODM4MTE5NjYzMjUwOAgAAwAAAAIAAA",
+      "sha256": "438bfa4b29bba109171d16263458e1b40e63a72179391ab8b82e741031b1ecb2",
+      "timeline_items": 20,
+      "accepted": 12,
+      "excluded": {
+        "missing-author-or-permalink": 1,
+        "repost": 7
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/petrogustavo/with_replies?cursor=DAAHCgABHVwYLtg__vwLAAIAAAATMjEwOTMwNjIzODc2MDYwNDA1NwgAAwAAAAIAAA",
+      "sha256": "1fae4c52c13816898a40ee6be018e08ce9bc0e1466de24d2553c52c371a8c8c8",
+      "timeline_items": 16,
+      "accepted": 6,
+      "excluded": {
+        "missing-author-or-permalink": 1,
+        "repost": 9
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/petrogustavo/with_replies?cursor=DAAHCgABHVwYLtg__ugLAAIAAAATMjEwODk4Mzk3MTQyMTgzOTc1MAgAAwAAAAIAAA",
+      "sha256": "9a033005cbde7d791ad7c6c0188c9858e005d69cc023d5d2ec214ca2cb270cd6",
+      "timeline_items": 20,
+      "accepted": 18,
+      "excluded": {
+        "missing-author-or-permalink": 1,
+        "repost": 1
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/petrogustavo/with_replies?cursor=DAAHCgABHVwYLtg__tMLAAIAAAATMjEwODQwMjk2NzM4ODc3ODUxNAgAAwAAAAIAAA",
+      "sha256": "f6d617c38556d7af7ccb98d6e3704f2eb5a24a14c16e0c912cc7f4c8080a566f",
+      "timeline_items": 19,
+      "accepted": 18,
+      "excluded": {
+        "missing-author-or-permalink": 1
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/petrogustavo/with_replies?cursor=DAAHCgABHVwYLtg__sALAAIAAAATMjEwODI4NzkwMjcwMjUwMTk3MAgAAwAAAAIAAA",
+      "sha256": "b8080db5684261dfc0a866758b38b74ecd6eb3ec7aa7e80642930bccd8facb9b",
+      "timeline_items": 20,
+      "accepted": 14,
+      "excluded": {
+        "missing-author-or-permalink": 1,
+        "repost": 5
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/petrogustavo/with_replies?cursor=DAAHCgABHVwYLtg__qsLAAIAAAATMjEwNzgxMzA3NTQwNzUxMTU4MQgAAwAAAAIAAA",
+      "sha256": "68a6d55c5f1941e636b1d55ebe0e8b861b91cc7daf5e53b18dea5f61eee32dfa",
+      "timeline_items": 16,
+      "accepted": 12,
+      "excluded": {
+        "missing-author-or-permalink": 1,
+        "repost": 3
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/petrogustavo/with_replies?cursor=DAAHCgABHVwYLtg__pkLAAIAAAATMjEwNzA5ODkxMTEwNjAyNzcyMQgAAwAAAAIAAA",
+      "sha256": "3ce5ea2e7c85786a28dc0465c00c45b4d6dbe03704165bd82c310fedfe71c205",
+      "timeline_items": 19,
+      "accepted": 14,
+      "excluded": {
+        "missing-author-or-permalink": 1,
+        "repost": 4
+      }
+    },
+    {
+      "url": "https://nitter.jaydenha.uk/petrogustavo/with_replies?cursor=DAAHCgABHVwYLtg__oULAAIAAAATMjEwNjc0MzQ1MjQxNTI1ODY0MggAAwAAAAIAAA",
+      "sha256": "e4f993dc7be9507f517e810279bc5dab2e776dadd3fb5b1bdeadc002aa011204",
+      "timeline_items": 19,
+      "accepted": 13,
+      "excluded": {
+        "missing-author-or-permalink": 1,
+        "repost": 5
+      }
+    }
+  ],
+  "excluded": {
+    "repost": 81,
+    "missing-author-or-permalink": 21
+  },
+  "repost_policy": "Exclude every native repost; require matching top-level permalink, username and timeline-item author. Quotes require authored content; replies are eligible. Ambiguous records excluded.",
+  "translation_policy": "No translations collected or created. Official X embed displays original content.",
+  "post_body_policy": "Only factual metadata and original permalinks are redistributed; original content is loaded through the official X embed on demand.",
+  "subject": "Gustavo Petro",
+  "account": "petrogustavo",
+  "platform_counts": {
+    "x": 285
+  },
+  "days": 26,
+  "months": 1,
+  "content_mode": "official_embeds"
+}
